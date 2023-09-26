@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VinodhRkumar
 - 👀 I’m interested in Data Science & Machine learning
 - 🌱 I’m currently learning SQL, Tableau, PowerBI, Python, & R...
-- 💞️ I’m looking to collaborate on open source project
+- 💞️ I’m looking to collaborate on open source project.
 - 📫 reach me out @ wenodhrock@gmail.com
 
 <!---
